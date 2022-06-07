@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.62a13dbc.css","mappings":"AAAA,WACI,2EACJ,CAEA,YACI,4EACJ","sources":["components/Header.css"],"sourcesContent":[".main-dark{\r\n    background: url(../images/bg-desktop-dark.jpg);\r\n}\r\n\r\n.main-light{\r\n    background: url(../images/bg-desktop-light.jpg);\r\n}"],"names":[],"sourceRoot":""}

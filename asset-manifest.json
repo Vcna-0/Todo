@@ -1,10 +1,17 @@
 {
   "files": {
-    "main.js": "/Todo/static/js/main.869e7966.js",
+    "main.css": "/Todo/static/css/main.62a13dbc.css",
+    "main.js": "/Todo/static/js/main.ba50e9e9.js",
+    "static/media/bg-desktop-light.jpg": "/Todo/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/Todo/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
     "index.html": "/Todo/index.html",
-    "main.869e7966.js.map": "/Todo/static/js/main.869e7966.js.map"
+    "static/media/icon-sun.svg": "/Todo/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
+    "static/media/icon-moon.svg": "/Todo/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
+    "main.62a13dbc.css.map": "/Todo/static/css/main.62a13dbc.css.map",
+    "main.ba50e9e9.js.map": "/Todo/static/js/main.ba50e9e9.js.map"
   },
   "entrypoints": [
-    "static/js/main.869e7966.js"
+    "static/css/main.62a13dbc.css",
+    "static/js/main.ba50e9e9.js"
   ]
 }
